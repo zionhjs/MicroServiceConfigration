@@ -1,6 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c0b7ae2-aa48-4a68-959e-a6f82a73dd1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Eclipse/springProjects/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Eclipse/springProjects/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Eclipse/springProjects/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corona/src/main/java/com/corona/demo/controllers/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corona/src/main/java/com/corona/demo/dto/LocationStats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corona/src/main/java/com/corona/demo/services/CoronaVirusDataSerivce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../corona/src/main/resources/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enterprise/src/main/java/com/myplantdiary/enterprise/controller/PlantDiaryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enterprise/src/main/java/com/myplantdiary/enterprise/dto/Specimen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-microservices-workshop-master/movie-catalog-service/src/main/java/io/javabrains/moviecatalogservice/services/MovieInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-microservices-workshop-master/movie-catalog-service/src/main/java/io/javabrains/moviecatalogservice/services/UserRatingInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringService/git-local-repository/limits-service-configuration-qa.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringService/git-local-repository/limits-service-configuration.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringService/git-local-repository/limits-service-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringService/git-local-repository/target/limits-service-configuration-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringService/limits-service/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../travel-planner-integrated/travel-planner-server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../travel-planner-integrated/travel-planner-server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../travel-planner-integrated/travel-planner-server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../travel-planner-integrated/travel-planner-server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringService/limits-service-configuration.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringService/limits-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringService/spring-cloud-config-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringService/spring-cloud-config-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringService/spring-cloud-config-server/src/main/java/com/tecnotab/springcloudconfigserver/SpringCloudConfigServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringService/spring-cloud-config-server/src/main/java/com/tecnotab/springcloudconfigserver/SpringCloudConfigServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringService/spring-cloud-config-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringService/spring-cloud-config-server/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1iz5AbHB7rGh4865xVu1QmwYXyy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c0b7ae2-aa48-4a68-959e-a6f82a73dd1f" name="Default Changelist" comment="" />
+      <created>1602897436371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602897436371</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1680" y="-312" key="new project wizard" timestamp="1602961186088">
+      <screen x="1680" y="-935" width="1080" height="1920" />
+    </state>
+    <state x="1680" y="-312" key="new project wizard/1680.-935.1080.1920/0.23.1680.951@1680.-935.1080.1920" timestamp="1602961186088" />
   </component>
 </project>
